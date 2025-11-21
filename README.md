@@ -2,7 +2,7 @@
 
 ## Integrantes
 
-* **Heitor Anderson Prestes de Oliveira Filho **– RM: **554823**
+* **Heitor Anderson Prestes de Oliveira Filho** – RM: **554823**
 * **Lucca Ribeiro Cardinale** – RM: **556668**
 
 ---
